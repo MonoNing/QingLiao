@@ -12,9 +12,8 @@ MySQL + Tomcat结构实现。
 >以下展示部分软件功能
 
 #####1:运行时动态权限
-<div align=center>
-![运行时动态权限.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90.gif)
-</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![运行时动态权限.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90.gif)
 
 #####2:注册登录
 
