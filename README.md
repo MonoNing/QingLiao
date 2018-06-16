@@ -11,29 +11,28 @@ MySQL + Tomcat结构实现。
 
 >以下展示部分软件功能
 
-#####1:运行时动态权限
+1:运行时动态权限
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![运行时动态权限.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90.gif)
 
-#####2:注册登录
+2:注册登录
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![登录注册.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95.gif)
 
 
-#####3:主界面和搜索用户添加
+3:主界面和搜索用户添加
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![主界面和搜索用户添加.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E4%B8%BB%E7%95%8C%E9%9D%A2%E5%92%8C%E6%90%9C%E7%B4%A2%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0.gif)
 
-
-#####4:群组聊天
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![群组聊天.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E7%BE%A4%E7%BB%84%E8%81%8A%E5%A4%A9.gif)
-
-#####5:创建群组
+4:群组聊天
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![群组聊天.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E7%BE%A4%E7%BB%84%E8%81%8A%E5%A4%A9.gif)
 
-#####6:单人聊天
+5:创建群组
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![群组聊天.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E7%BE%A4%E7%BB%84%E8%81%8A%E5%A4%A9.gif)
+
+6:单人聊天
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![单人聊天.gif](https://idlechat.oss-cn-beijing.aliyuncs.com/gif/%E5%8D%95%E4%BA%BA%E8%81%8A%E5%A4%A9.gif)
 
